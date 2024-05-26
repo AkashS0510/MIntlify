@@ -20,7 +20,7 @@
     }
   },
   "paths": {
-    "/v1/evaluation/": {
+  "/v1/evaluation/": {
       "post": {
         "summary": "Submit Evaluation Request",
         "description": "Allows B2B clients to submit a request for evaluation directly by providing reference links to the images.",
